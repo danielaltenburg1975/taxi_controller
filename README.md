@@ -30,9 +30,9 @@ The program is built on a robust Vaadin framework, ensuring a user-friendly inte
 
 ## Product Description - Taxi Controller
 
-Author: Daniel Altenburg
-Version: 1.0
-Published on: August 27, 2023
+Author: Daniel Altenburg /
+Version: 1.0 /
+Published on: October 03, 2023
 
 ## Note: 
 This demo version of the Taxi Controller is exclusively intended as a portfolio project designed to showcase my skills and
