@@ -9,8 +9,8 @@ easy acceptance of appointments from both customers and drivers, captures custom
 provides extensive time tracking for drivers.
 
 ## Key Features:
-- Appointment Acceptance: Customers and drivers can easily accept new appointments, optimizing
-  scheduling and ensuring smooth operations.
+- Appointment Acceptance: Customers and drivers can easily submit new appointments,
+  streamlining scheduling and ensuring smoother operations.
 
 - Data Management: Capture and store customer information as well as details about vehicles and drivers.
   The Taxi Controller offers a user-friendly platform for efficient management of all relevant data.
