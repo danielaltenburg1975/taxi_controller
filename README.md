@@ -1,18 +1,26 @@
 # Taxi-Controller
 
-## Taxi Controller:A Comprehensive Solution for 
-## Small Taxi Companies and Ride-Hailing Providers
+## Taxi Controller:A Comprehensive Solution for Small Taxi Companies and Ride-Hailing Providers
 
-The Taxi Controller is a specially designed, web-based full-stack application aimed at helping small taxi companies and ride-hailing providers in Germany manage their operations more efficiently. This application allows for easy acceptance of appointments from both customers and drivers, captures customer, vehicle, and driver data, and additionally provides extensive time tracking for drivers.
+The Taxi Controller is a specially designed, web-based full-stack application aimed at helping small taxi
+companies and ride-hailing providers in Germany manage their operations more efficiently. This application allows for
+easy acceptance of appointments from both customers and drivers, captures customer, vehicle, and driver data, and additionally
+provides extensive time tracking for drivers.
 
-## Running the application
+## Key Features:
+- Appointment Acceptance: Customers and drivers can easily accept new appointments, optimizing
+  scheduling and ensuring smooth operations.
 
-The project is a standard Maven project. To run it from the command line,
-type `mvnw` (Windows), or `./mvnw` (Mac & Linux), then open
-http://localhost:8080 in your browser.
+- Data Management: Capture and store customer information as well as details about vehicles and drivers.
+  The Taxi Controller offers a user-friendly platform for efficient management of all relevant data.
 
-You can also import the project to your IDE of choice as you would with any
-Maven project. Read more on [how to import Vaadin projects to different IDEs](https://vaadin.com/docs/latest/guide/step-by-step/importing) (Eclipse, IntelliJ IDEA, NetBeans, and VS Code).
+- Comprehensive Time Tracking: The application offers detailed time tracking for drivers,
+  enabling precise monitoring of working hours and accurate billing.
+
+## Location-Independent Operation:
+The Taxi Controller is accessible location-independently via a web server. This means you can access the application 
+from anywhere as long as you have an internet connection. This ensures maximum flexibility and significantly simplifies 
+the management of your taxi company.
 
 ## Deploying to Production
 
