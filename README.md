@@ -18,3 +18,13 @@ provides extensive time tracking for drivers.
 - Comprehensive Time Tracking: The application offers detailed time tracking for drivers,
   enabling precise monitoring of working hours and accurate billing.
 
+## Technical Specifications:
+
+- Java: OpenJDK 17
+- Vaadin: 24.0.0 (Based on Vaadin Framework)
+- Spring Boot: 3.0.4
+- Apache Maven: 3.6.3
+- Database: Relational (H2, only for demo version)
+- 
+The program is built on a robust Vaadin framework, ensuring a user-friendly interface and a smooth user experience.
+
