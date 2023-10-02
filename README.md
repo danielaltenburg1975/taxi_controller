@@ -28,3 +28,14 @@ provides extensive time tracking for drivers.
  
 The program is built on a robust Vaadin framework, ensuring a user-friendly interface and a smooth user experience.
 
+## Product Description - Taxi Controller
+
+Author: Daniel Altenburg
+Version: 1.0
+Published on: August 27, 2023
+
+## Note: 
+This demo version of the Taxi Controller is exclusively intended as a portfolio project designed to showcase my skills and
+expertise in software development. It is not meant for production use and has been specifically developed for this purpose to
+demonstrate my capabilities. Thank you for your understanding.
+
