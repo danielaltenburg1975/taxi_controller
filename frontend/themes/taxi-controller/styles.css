@@ -1,0 +1,28 @@
+@import url('./main-layout.css');
+
+
+vaadin-button.calendarButton {
+
+    color : black;
+    background-color : transparent;
+    border-radius : 50%;
+}
+
+label.calendar{
+    text-align : center;
+    font-weight: 500;
+
+}
+
+
+.login-view {
+    background-image: url("../images/TaxiBackground1.png"); /* Pfad zum Hintergrundbild anpassen */
+    background-size: cover; /* Bildgröße anpassen */
+}
+
+
+
+
+
+
+
