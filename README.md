@@ -1,7 +1,9 @@
 # Taxi-Controller
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+##Taxi Controller:A Comprehensive Solution for 
+##Small Taxi Companies and Ride-Hailing Providers
+
+The Taxi Controller is a specially designed, web-based full-stack application aimed at helping small taxi companies and ride-hailing providers in Germany manage their operations more efficiently. This application allows for easy acceptance of appointments from both customers and drivers, captures customer, vehicle, and driver data, and additionally provides extensive time tracking for drivers.
 
 ## Running the application
 
