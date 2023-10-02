@@ -25,6 +25,6 @@ provides extensive time tracking for drivers.
 - Spring Boot: 3.0.4
 - Apache Maven: 3.6.3
 - Database: Relational (H2, only for demo version)
-- 
+ 
 The program is built on a robust Vaadin framework, ensuring a user-friendly interface and a smooth user experience.
 
