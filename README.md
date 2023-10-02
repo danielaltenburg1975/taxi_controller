@@ -1,6 +1,7 @@
 # Taxi-Controller
 
-## Taxi Controller:A Comprehensive Solution for Small Taxi Companies and Ride-Hailing Providers
+## Taxi Controller:
+A Comprehensive Solution for Small Taxi Companies and Ride-Hailing Providers
 
 The Taxi Controller is a specially designed, web-based full-stack application aimed at helping small taxi
 companies and ride-hailing providers in Germany manage their operations more efficiently. This application allows for
